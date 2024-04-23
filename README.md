@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 👋 Hi there! I'm backend developer. 🚀 <br />
 I love climbing and problem-solving. 🧗🏻‍♀️😆
+
 <br />
 
 
