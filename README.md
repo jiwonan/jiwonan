@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jiwonan1/" target="_blank">
     <img src="https://img.shields.io/badge/jiwonAn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://velog.io/@jeon_131/posts" target="_blank">
+<!--   <a href="https://velog.io/@jeon_131/posts" target="_blank">
     <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 <br />
 
