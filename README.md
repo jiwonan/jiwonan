@@ -15,7 +15,7 @@
   <!--<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F7B700&center=false&vCenter=false&repeat=false&random=false&width=435&lines=Hi+there!;Welcome+to+my+hub+😆" alt="Typing SVG" /></a>-->
     
-  👋 Hi, I'm backend developer. 🚀 <br />
+  👋 Hi, I'm Full Stack developer. 🚀 <br />
   I love climbing and problem-solving. 🧗🏻‍♀️😆
   <br />
   
